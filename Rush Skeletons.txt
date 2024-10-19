@@ -1,0 +1,178 @@
+------------------------------------------------------------------------
+Rush Skeletons
+
+White Note Orange
+Black Note Green
+Transpose 3
+------------------------------------------------------------------------
+
+u u u u u u u u u
+[uf] [uf] [uf] [uf] [uf]
+[ufx]
+[0ufx] [0ufx]
+[30ufx] [30ufx] [30ufx] [30ufx] [30ufx] [30ufx] [30ufx]
+
+[30] [9W] @ [*w] 
+[30] [$Q] [5w] [%W] [7W] 3 [(W] 
+[3u]   [9Wu]   
+[@Y]   [89wY]   
+[%W]   [7Wr] W 2  [7(W]  
+[3][$][5][%Wu]u  [9W]   [@Y]   [*wY]   [%7(W]   1   @   [%7(]  
+7*([0u]   [9Wu]   [@Y]  Y [*w]  [%W]   [7Wr]   [4]   [7(]   
+[^r]   [9WT]   [@E]   [*wr]   [7*W]
+
+[@*W]   [3][$][5]
+[%uf]GH[9WuG]  
+f[@YD]gh[*wYg]  
+D[Wk]Hk[7(H]D[WH][7D]aD[7(a]Oa
+[3ud]fH[9Wuk]Hf[@YS]Dh[*wYJ]  
+aD[WH]  
+Oa[7(D]  
+YO[@a]  
+Da[%7WYO]  
+D[3ufH][GJ][Hk][9WuGJ]  
+[fH][@YDh][gH][YhJ][*WgH]  
+[Dh][WDk]Hk[7(raH]D
+[WH][4OD]aD[7(WaH]
+S[Ea][^roP][Oa][PS][9WTaD][PS][aD][@ESg][aD][Sg]
+[*wrDh][Sg][Ph][7(WaH]
+
+@   [3][$][5]
+[3udfH]   [9Wu]   
+[@YSDh]   [89wY]   
+[%WaDH]   [7Wr] W [2OaD]  [7(W]  
+[%WudfH]   [9Wu]   [@YSDh]   [*wY]   [%7(WaDH]   
+1   @   [%7(]  
+[0udfH]   [9Wu]   [@YSDh]  Y [*w]  [%WaDH]   
+[7Wr]   [4OaD]   [7(]   
+[^radH]   [9WT]   [@ESDh]   [*wr]   [7*WaDH]
+
+[@*W]   [3][$][5]
+[%uf]GH[9WuG]  
+f[@YD]gh[*wYg]  
+D[Wk]Hk[7(H]D[WH][7D]aD[7(a]Oa
+[3ud]fH[9Wuk]Hf[@YS]Dh[*wYJ]  
+aD[WH]  
+Oa[7(D]  
+YO[@a]  
+Da[%7WYO]  
+D[3ufH][GJ][Hk][9WuGJ]  
+[fH][@YDh][gH][YhJ][*WgH]  
+[Dh][WDk]Hk[7(raH]D
+[WH][4OD]aD[7(WaH]
+S[Ea][^roP][Oa][PS][9WTaD][PS][aD][@ESg][aD][Sg]
+[*wrDh][Sg][Ph][7(WaH]
+
+[7D] [QYf] D [QYf] [^G] [QTH] G 
+[QTf] [%D] [(rf] D [(rS] [5a] [0r]  [0r] 
+O[*S] [0TD] S [0D] [6f] [wTG]f [wT] 
+[DZ][^SL] [0TDZ] [^fx] [0THV] [@wYhv] [WT] [5qr] 
+[@wEZ] [ux] [dHx] [YZ] [ShZ] [OH] [aHk]Hr 
+[DH] [ux] [dHx] [YZ] [SDZ] [WaH] r Y 
+[OH] [0x] [yOx] [(Z] [ToZ] [WH] 
+[rOk] H7 [YOH] J[^k] [yOL] [(J] [Tok] [%rOH]
+
+@   [3][$][5]
+[3udfH]   [9Wu]   
+[@YSDh]   [89wY]   
+[%WaDH]   [7Wr] W [2OaD]  [7(W]  
+[%WudfH]   [9Wu]   [@YSDh]   [*wY]   [%7(WaDH]   
+1   @   [%7(]  
+[0udfH]   [9Wu]   [@YSDh]  Y [*w]  [%WaDH]   
+[7Wr]   [4OaD]   [7(]   
+[^radH]   [9WT]   [@ESDh]   [*wr]   [7*WaDH]
+
+[@*W]   [3][$][5]
+[%uf]GH[9WuG]  
+f[@YD]gh[*wYg]  
+D[Wk]Hk[7(H]D[WH][7D]aD[7(a]Oa
+[3ud]fH[9Wuk]Hf[@YS]Dh[*wYJ]  
+aD[WH]  
+Oa[7(D]  
+YO[@a]  
+Da[%7WYO]  
+D[3ufH][GJ][Hk][9WuGJ]  
+[fH][@YDh][gH][YhJ][*WgH]  
+[Dh][WDk]Hk[7(raH]D
+[WH][4OD]aD[7(WaH]
+S[Ea][^roP][Oa][PS][9WTaD][PS][aD][@ESg][aD][Sg]
+[*wrDh][Sg][Ph][7(WaH]
+
+6  [*0]  %  [8(]  
+3$56  [*0]  3  [*0]  
+6  [*0e]  %  [80W] 
+%^8[!(] [%*0WT] 3 [@*0WT] 
+3 [70Wry] @ [^(wETY] 
+% [7(WrY] 1 [7(WrYO] 
+3 [90WyuOa] @ [*(wToPD] 
+% [@7(WrYaDkZ] [7(WrYOaDHkZV]
+
+[3udfH]   [9Wu]   
+[@YSDh]   [89wY]   
+[%WaDH]   [7Wr] W [2OaD]  [7(W]  
+[%WudfH]   [9Wu]   [@YSDh]   [*wY]   [%7(WaDH]   
+1   @   [%7(]  
+[0udfH]   [9Wu]   [@YSDh]  Y [*w]  [%WaDH]   
+[7Wr]   [4OaD]   [7(]   
+[^radH]   [9WT]   [@ESDh]   [*wr]   [7*WaDH]
+
+[@*W]   [3][$][5]
+[%uf]GH[9WuG]  
+f[@YD]gh[*wYg]  
+D[Wk]Hk[7(H]D[WH][7D]aD[7(a]Oa
+[3ud]fH[9Wuk]Hf[@YS]Dh[*wYJ]  
+aD[WH]  
+Oa[7(D]  
+YO[@a]  
+Da[%7WYO]  
+D[3ufH][GJ][Hk][9WuGJ]  
+[fH][@YDh][gH][YhJ][*WgH]  
+[Dh][WDk]Hk[7(raH]D
+[WH][4OD]aD[7(WaH]
+S[Ea][^roP][Oa][PS][9WTaD][PS][aD][@ESg][aD][Sg]
+[*wrDh][Sg][Ph][7(WaH]
+
+6
+[yic] q [yix] [0c] [yi] [9z] [yi] e 
+[tux] q [tuz] [0x] [tu] [el] [tu] [r] 
+[YZr] Q [YLr] [(Z] [tu] [9k] ( 0 
+[Hx]    [Zh] 
+[!$EYOSGB8qlc] [@%*QPDHLCtim] 
+[^(WTIJZV4sg] [!$EYOSGB8qlc]
+[9qgj] 2 [9qfH] [6gj] [9q] [$pd] 4 3 
+[80sj] 1 [80aH] [6sj] [80] [3ps] 4 $ 
+[0esj] 8 [0efl] [7Dk] [(e] [$Dj] [(e] [30dH]   
+[!$EYOSGB8qlc] [^(WTIJZV4sg]
+
+[3] 
+[6ef] u [80f] u [3f] u [80f] u [6f] 
+[80sl] [3ak] [80OH] [6pj] [80YD] [3uf] [80ep] [6ts] [80] 3 [80ep] 
+[6yd] [80uf] [3ig] [9qpj] [6uf] [780] 8 
+[860ts] [YD17] [!*euf] [@(IG] [Y17rpj] [OH30ry]
+
+[30] [$Q] [%W]
+[6ef] u [80f] u [3f] u [80f] u [6f] 
+[80sl] [$ak] [OH480] [3pj] [OH80] [$pj] [0esl] [%fx] [0r] 6
+[60tpj] [29pgc] [8fx] [7eidz] [6sl] [Y7eak] [*pj]
+[OH9ry] [(eig] [W9yuf]
+[HV3ad] [6psjb]
+
+[6] 
+[^Eg] i [*qg] i [4g] i [*qg] i [^g] 
+[*SLq] [4sl] [pj] [^PJ] [*quf] [4ig] [*EPq] [^TS] [*q] 4 [*EPq] 
+[^YD] [*qig] [IG4] [(QPJ] [^ig] [*8q] * 
+[^*TSq] [!8uf] [E29ig] [30oh] [!PJ8tu] [Y4qtpj]
+
+[4q] [5w] [6e]
+[^Eg] i [*qg] i [4g] i [*qg] i [^g] 
+[*SLq] [5sl] [$*qpj] [PJ4] [*qpj] [PJ5] [ESLq] [6gc] [qt] ^
+[^TPJq] [@(PGC] [*gc] [EIDZ8] [^SL] [E8usl] [PJ9]
+[(Ytpj] [EIG0] [(Yeig]
+[D4sjb] [^PSJB]
+
+[^] 
+[q] [C] [c] [Z] [L] [l] [J]
+[j] [G] [g]
+[D4sjb] [^PSJB]
+
+[!$EYOSGB8qlc] [@%*QPDHLCtim] [^(WTIJZV4sg]
